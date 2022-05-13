@@ -1,0 +1,25 @@
+header {
+    height: 150px;
+    background-image: url("./pics/HeaderImg.jpg");
+    background-size: cover;
+    text-align: center;
+    background-attachment: fixed;
+}
+li {
+  box-align : center;
+}
+footer {
+    height: 150px;
+    background-image: url("./pics/resetas.jpg");
+    background-size: cover;
+    text-align: center;
+    background-attachment: fixed;
+}
+.img-container {
+    background-color: rgba(193, 152, 152, 0.6);
+    height: 380px;
+    overflow: hidden;
+    flex-flow: row;
+    display: inline-block ;
+    }
+
